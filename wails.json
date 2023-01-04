@@ -1,0 +1,13 @@
+{
+  "name": "wails-sveltekit-01",
+  "outputfilename": "wails-sveltekit-01",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "wailsjsdir": "./frontend/src/lib",
+  "author": {
+    "name": "jtfogarty",
+    "email": "jeff@fogarty.org"
+  }
+}
